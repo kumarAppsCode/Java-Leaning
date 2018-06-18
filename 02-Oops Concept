@@ -1,2 +1,52 @@
 Oops:
 Java: Object oriented programming language
+c:Procedural Language
+programming language----High level =======Human understandable
+          					----middle level======Procedural language(C) 
+                    ----low level ========Assemble Language(can't able to understand)
+                    ----very low level====pure machine language 
+
+
+1. Class 
+2. Object
+3. Abstraction
+4. Inheritance
+5. Interface
+6. Encapsulation
+7. Polymorphism
+
+Procedure language- no safety
+Oops--------------- Hide the data, develop and maintain code is easy.solve the real time problem.
+
+Class:
+      Collection of objects is called class. 
+      It is a logical entity.
+      Method
+      fields
+      Constructor 
+
+Object: 3 type
+          1. Identity ---name
+          2. state    ---colour
+          3. behaviour---wt can we do?
+          It is a runtime entity.
+          
+Abstraction: It means elimination
+             Hiding internal details and showing functionality is known as abstraction
+             For example: phone call, we don't know the internal processing
+             abstraction: abstract class + interface           
+
+Inheritance: derive subclass from Parent class.(Deriving new class from it's exiting class, with it's own properties)
+	      		 one object acquires all the properties and behaviours of parent object(Code re-useable)
+             Type: 
+                1. Single
+                2. Multi-level
+                3. hierarchy
+                2. Multiple-not used in java(we go for interface)
+                
+Interface:  only Method and signature		
+
+Encapsulation: Binding (or wrapping) code and data together into a single unit is known as encapsulation
+			         secure data
+Polymorphism: When one task is performed by different ways is called Polymorphism
+              to draw something e.g. shape or rectangle etc.
